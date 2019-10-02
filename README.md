@@ -1,7 +1,8 @@
 ### Deploy [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
-
 Repo can be used as a starting point to deploy
 [fast.ai](https://github.com/fastai/fastai) models on Render.
+
+![Web app](data/2019.10.02_web_app.jpg)
 
 Guide for production deployment to Render is
 [here](https://course.fast.ai/deployment_render.html).
