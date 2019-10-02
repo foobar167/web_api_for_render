@@ -5,7 +5,13 @@ This repo can be used as a starting point to deploy
 
 The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
 
-[Deploy](https://course.fast.ai/deployment_render.html#deploy):
+Prepare your starter app:
+   * Fork this repository.
+   * Sign up for a Render account.
+   * Modify you repository. Render integrates with your GitHub repo
+     and automatically builds and deploys changes every time you push a change.
+
+[Deploy](https://course.fast.ai/deployment_render.html#deploy) it:
    1. Create a new **Web Service** on [Render Dashboard](https://dashboard.render.com/)
       and use the repo you created above.
       You will need to grant Render permission to access your repo in this step.
