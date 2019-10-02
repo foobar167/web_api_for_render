@@ -1,1 +1,8 @@
+# Directories to ignore
+.git/
+.idea/
+temp/
+
+# Ignore exported Pickle file of the trained model
+# It could be large.
 app/export.pkl
