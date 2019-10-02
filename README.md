@@ -3,7 +3,8 @@
 This repo can be used as a starting point to deploy
 [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+The guide for production deployment to Render is
+[here](https://course.fast.ai/deployment_render.html).
 
 Prepare your starter app:
    * Fork this repository.
@@ -22,7 +23,7 @@ Prepare your starter app:
       live in a few minutes at the URL displayed in your Render dashboard.
       You can follow its progress in the deploy logs.
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+The sample app described here is up at [this web-site](https://fastai-v3.onrender.com). Test it out with bear images!
 
 You can test your changes locally by installing Docker and using the following command:
 ```shell script
