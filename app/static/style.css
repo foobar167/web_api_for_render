@@ -25,18 +25,17 @@ body {
 }
 
 .analyze {
-    margin-top: 5em;
+    margin-top: 3em;
 }
 
 .upload-label {
     padding: 10px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .result-label {
-    margin-top: 0.5em;
     padding: 10px;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 button.choose-file-button {
